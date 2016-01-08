@@ -33,4 +33,6 @@ open GithubBrowser.xcodeproj/
 
 #### Run the Build using Xcode to run the code into a simulator or a device.
 
-#### If you plan to debug it into your device, Do not forget to edit The AppDelegate.m file, and change the `localhost` address to your inet address. For more info, Please Read [Running on a device](https://facebook.github.io/react-native/docs/running-on-device-ios.html)
+- If you plan to debug it into your device, Do not forget to edit The AppDelegate.m file, and change the `localhost` address to your inet address. For more info, Please Read [Running on a device](https://facebook.github.io/react-native/docs/running-on-device-ios.html)
+
+- Bridge Explanation [Pulse Article](https://www.linkedin.com/pulse/calling-custom-objective-c-functions-inside-react-native-mehta?published=t)
